@@ -1,5 +1,4 @@
-from kikimr.public.sdk.python import client as ydb
-
+import ydb
 import urllib.parse
 import hashlib
 import base64
