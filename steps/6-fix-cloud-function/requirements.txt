@@ -1,1 +1,2 @@
-ydb==0.0.41
+protobuf<3.21
+ydb
